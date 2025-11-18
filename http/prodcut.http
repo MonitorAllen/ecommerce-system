@@ -1,0 +1,5 @@
+### 获取商品列表
+GET {{host}}/products
+
+### 根据　ID　获取商品
+GET {{host}}/products/2
